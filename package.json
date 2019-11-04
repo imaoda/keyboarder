@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "wangyongfeng"
+  },
+  "description": "监听按键事件，支持 command option 等复合按键",
+  "keywords": [
+    "keyboard",
+    "event listener"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "keyboarder",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
